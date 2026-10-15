@@ -1,0 +1,7 @@
+[2026-10-15T14:21:03Z] === AST ITERATION 1 START | repo=twisted/ampoule sha=58d3003c ===
+[2026-10-15T14:21:03Z] [iter=1] PHASE START: ast repo=twisted/ampoule sha=58d3003c
+[2026-10-15T14:21:03Z] [iter=1] Building AST aggregate chunks
+[2026-10-15T14:21:14Z] [iter=1] AST chunks built count=1 triples=89714
+[2026-10-15T14:21:14Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/58d3003cc80ec5b66196ab7fc84e6edd075599f8/.complete
+[2026-10-15T14:21:14Z] [iter=1] PHASE END: ast elapsed_s=10 elapsed_min=0.2
+[2026-10-15T14:21:14Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

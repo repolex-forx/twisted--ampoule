@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/twisted/ampoule/commit/58d3003cc80ec5b66196ab7fc84e6edd075599f8",
       "git:hexsha": "58d3003cc80ec5b66196ab7fc84e6edd075599f8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/twisted/ampoule/commit/c2f4331f105acfac5869910c487e7e9e92072088",
