@@ -1,0 +1,11 @@
+{
+  "org": "twisted",
+  "repo": "ampoule",
+  "versions": [
+    {
+      "commit": "58d3003cc80ec5b66196ab7fc84e6edd075599f8",
+      "tag": "",
+      "parsed_at": "2026-10-15T14:22:14.664923+00:00"
+    }
+  ]
+}
